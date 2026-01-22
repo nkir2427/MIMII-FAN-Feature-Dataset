@@ -22,7 +22,7 @@ The extracted features were used in experimental evaluations reported in an acad
 ```text
 data/
 ├── -6dB/          # Extracted numerical feature datasets under SNR -6dB
-├── 0dB/           # Extracted numerical feature datasets under SNR 0dB
+├──  0dB/          # Extracted numerical feature datasets under SNR 0dB
 ├──  6db           # Extracted numerical feature datasets under SNR 6dB
 ├── matlab/        # MATLAB scripts used for feature extraction
 └── README.md
